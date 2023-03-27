@@ -1,0 +1,43 @@
+.bg-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #f5d0fe;
+  height: 100vh;
+}
+.container {
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+button {
+  background-color: #d946ef;
+  outline: none;
+  border: none;
+  margin: 5px;
+  height: 30px;
+  width: 60px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 14px;
+  border-radius: 5px;
+}
+
+input {
+  height: 30px;
+
+  font-family: 'Roboto';
+  font-size: 14px;
+  border-radius: 5px;
+  outline: none;
+  border: 2px solid #cbd2d9;
+  padding: 3px;
+}
+.edit-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
